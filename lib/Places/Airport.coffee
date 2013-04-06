@@ -1,0 +1,1 @@
+class Airport extends Place

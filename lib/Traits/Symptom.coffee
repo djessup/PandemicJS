@@ -1,0 +1,1 @@
+class Symptom extends Trait

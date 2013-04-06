@@ -1,0 +1,1 @@
+class Hospital extends Place

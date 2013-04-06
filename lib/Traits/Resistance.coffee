@@ -1,0 +1,1 @@
+class Resistance extends Trait

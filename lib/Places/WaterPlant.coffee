@@ -1,0 +1,1 @@
+class WaterPlant extends Place
